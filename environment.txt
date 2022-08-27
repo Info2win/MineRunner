@@ -1,0 +1,4 @@
+Dungeon Straight
+Balcony Railing
+Hallway Full
+Basement Var1
